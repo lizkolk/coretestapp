@@ -1,0 +1,2 @@
+# coretestapp
+openshift test
